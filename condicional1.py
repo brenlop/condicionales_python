@@ -10,4 +10,4 @@ un programa que pregunte al usuario su edad
  if edad > = 18:
 print("eres mayor dev edad")
 else:
-giprint("eres menor de edad")
+print("eres menor de edad")
