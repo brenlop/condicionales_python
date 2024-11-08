@@ -22,4 +22,6 @@ Sub Main()
         jugador1 = Console.ReadLine()
         Console.Write("Jugador 2, ingrese su opción (Piedra, Papel, Tijera): ")
         jugador2 = Console.ReadLine()
+        
+
 
